@@ -2,7 +2,14 @@
 <resources>
 
     <string name="app_name">Day 2</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="fridays_title">List of Fridays</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="yes_hint">It is Friday</string>
+    <string name="no_hint">No it\'s not</string>
+    <string name="good_job">Good job!</string>
+    <string name="wrong">Wrong</string>
+    <string name="is_friday">Is %1$s a Friday?</string>
 
 </resources>
